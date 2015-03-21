@@ -2,7 +2,7 @@
 
 ## About
 
-Living documentation and issue tracking for my Triton 23CC boat.
+Living documentation and issue tracking for my Triton 23CC boat. :ship:
 
 ## Build
 
